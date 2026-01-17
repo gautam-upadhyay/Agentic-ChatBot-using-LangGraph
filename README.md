@@ -57,4 +57,4 @@ The database tool is defined in `chatbot.py`:
 
 
 ![Alt text](images/image.png)
-![Alt text](https://example.com/path/to/image.png)
+![Alt text]([https://example.com/path/to/image.png](https://github.com/gautam-upadhyay/Agentic-ChatBot-using-LangGraph/blob/main/image.png))
