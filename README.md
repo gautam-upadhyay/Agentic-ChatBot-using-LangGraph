@@ -55,6 +55,6 @@ The database tool is defined in `chatbot.py`:
 - "What is the total sales by country?"
 - "List customers who bought Jazz tracks"
 
+DEMO:
 
-![Alt text](images/image.png)
 ![Alt text](https://github.com/gautam-upadhyay/Agentic-ChatBot-using-LangGraph/blob/main/image.png?raw=true)
